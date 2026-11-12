@@ -3,6 +3,10 @@
   "name": "Hisham",
   "version": 1,
   "admin": "admin.html",
-  "exportedAt": "2026-11-12T16:51:22.483Z",
-  "generator": "Site Studio"
+  "exportedAt": "2026-11-12T18:05:59.312Z",
+  "generator": "Site Studio",
+  "studioBuild": {
+    "id": "e9bd909",
+    "at": "2026-11-12T18:00:27.530Z"
+  }
 }
