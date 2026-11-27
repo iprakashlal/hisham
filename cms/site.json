@@ -3,11 +3,11 @@
   "name": "Hisham",
   "version": 1,
   "admin": "admin.html",
-  "exportedAt": "2026-11-27T23:10:38.912Z",
+  "exportedAt": "2026-11-27T23:55:21.820Z",
   "generator": "Site Studio",
   "studioBuild": {
-    "id": "9ec4b03",
-    "at": "2026-11-27T23:01:29.262Z"
+    "id": "f5cbd74",
+    "at": "2026-11-27T23:51:55.458Z"
   },
   "badge": "1qt9bdp",
   "menu": {
@@ -97,5 +97,6 @@
       }
     ]
   },
-  "menuV": "zlmmg9"
+  "menuV": "zlmmg9",
+  "pdV": "bzfb82"
 }
